@@ -36,6 +36,7 @@ int main()
     // Display nicely formatted number in console
     cout << "You entered: " << number << endl;
 
-    // return 0 as exit success; means program finished successfully
+    // return 0 as exit success; 
+    // means program finished successfully
     return 0;
 }
